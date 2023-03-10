@@ -1,0 +1,88 @@
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\appsettings.json
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\FastDeliveryAPI.exe
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\FastDeliveryAPI.deps.json
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\FastDeliveryAPI.runtimeconfig.json
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\FastDeliveryAPI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\FastDeliveryAPI.pdb
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.csproj.AssemblyReference.cache
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.AssemblyInfoInputs.cache
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.AssemblyInfo.cs
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.csproj.CoreCompileInputs.cache
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\staticwebassets\msbuild.FastDeliveryAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.FastDeliveryAPI.props
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FastDeliveryAPI.props
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FastDeliveryAPI.props
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\scopedcss\bundle\FastDeliveryAPI.styles.css
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.csproj.CopyComplete
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\refint\FastDeliveryAPI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.pdb
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.genruntimeconfig.cache
+C:\Escritorio\Modulo 1\FastDeliveryAPI\obj\Debug\net7.0\ref\FastDeliveryAPI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Npgsql.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Escritorio\Modulo 1\FastDeliveryAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.csproj.AssemblyReference.cache
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.AssemblyInfoInputs.cache
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.AssemblyInfo.cs
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.csproj.CoreCompileInputs.cache
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.dll
+E:\FastDeliveryAPI\obj\Debug\net7.0\refint\FastDeliveryAPI.dll
+E:\FastDeliveryAPI\obj\Debug\net7.0\FastDeliveryAPI.pdb
